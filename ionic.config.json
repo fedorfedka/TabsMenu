@@ -1,0 +1,7 @@
+{
+  "name": "TabsMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
